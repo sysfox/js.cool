@@ -106,7 +106,6 @@ module.exports = {
   'god': 'godwhitetaiwan.github.io',
   'godwhite': 'godwhitetaiwan.github.io',
   'lzscxb': 'lzscxb.github.io',
-  'fox': 'cname-china.vercel-dns.com', //noCF
   'luca': 'lucatolton.github.io',
   'notapi': 'notapi.vercel.app', //noCF
   'heiguoblog': 'fairy-plus.github.io',
